@@ -1,6 +1,5 @@
 # Financial_loan_analysis
-# Excel-Project-Bank-Loan-Analysis
-# Bank Loan Report
+
 
 ## Problem Statement
 
