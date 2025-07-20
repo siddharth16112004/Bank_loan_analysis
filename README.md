@@ -99,10 +99,10 @@ In our Bank Loan Report project, we aim to visually represent critical loan-rela
 
 These diverse chart types will enhance our ability to visualize and communicate loan-related insights effectively, supporting data-driven decisions and strategic planning within our lending operations.
 
-##Summary_Dashboard
+###Summary_Dashboard
 <img width="1327" height="665" alt="summary dashboard" src="https://github.com/user-attachments/assets/63e5b472-5074-4b2f-b23f-5d54fe3e5fcf" />
 
-##Overview_Dashboard
+###Overview_Dashboard
 <img width="1325" height="666" alt="overview dashboard" src="https://github.com/user-attachments/assets/3c9c0150-6b08-4bc9-8148-8b866800464a" />
 
 ## Overview
