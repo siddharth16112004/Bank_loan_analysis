@@ -1,4 +1,4 @@
-# Financial_loan_analysis
+# Bank_loan_analysis
 
 
 ## Problem Statement
